@@ -12,8 +12,8 @@ Actualmente construyo mi portafolio [**JeremyDev**](https://frontend-8izd.onrend
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy_Rosas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeremy-rosas)
-[![Portafolio](https://img.shields.io/badge/🌐%20Mi%20Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-8izd.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy_Rosas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeremy-rosas)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-JeremyDev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://frontend-8izd.onrender.com/)
 
 ---
 
