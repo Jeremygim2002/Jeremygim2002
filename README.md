@@ -1,7 +1,7 @@
-# ![https://github.com/jeremygim](https://raw.githubusercontent.com/jeremygim2002/jeremygim2002/main/banner.png)  
+# ![Banner](./images/banner.png)  
 ### Full Stack Developer
 
-![https://github.com/jeremygim](./profile_github.png)
+![Profile](./images/profile_github.png)
 
 Soy **Jeremy Rosas** 🚀, apasionado del desarrollo **full stack** y estudiante de Ingeniería de Sistemas.  
 Transformo ideas en experiencias digitales con una combinación de creatividad, estrategia y precisión técnica.  
