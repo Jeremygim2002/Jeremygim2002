@@ -1,17 +1,19 @@
-# [Profile](./images/avatar_pequeño.png) **Hola, mi nombre es Jeremy Rosas** 🚀  
+![Avatar](./images/avatar_pequeño.png) **Hola, mi nombre es Jeremy Rosas** 🚀  
 ### Full Stack Developer  
 
 ![Banner](./images/banner.png)  
 
 
-Apasionado por el desarrollo web full stack y estudiante de Ingeniería de Sistemas.
-Transformo ideas en experiencias digitales, combinando creatividad, estrategia y técnica, utilizando stacks como MERN y MEAN.
-Motivado por la resolución de problemas, la optimización de procesos y la innovación constante.
+Apasionado por el desarrollo web full stack y estudiante de Ingeniería de Sistemas.  
+Enfocado en crear experiencias digitales con stacks como **MERN** y **MEAN**.  
+Actualmente construyo mi portafolio [**JeremyDev**](https://frontend-8izd.onrender.com/), donde muestro mis proyectos y crecimiento como desarrollador.
+
 ---
 
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy_Rosas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeremy-rosas)
+[![Portafolio](https://img.shields.io/badge/🌐%20Mi%20Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-8izd.onrender.com/)
 
 ---
 
