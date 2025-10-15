@@ -4,7 +4,7 @@
 ![Banner](./images/banner.png)  
 
 
-Apasionado por el desarrollo web full stack y estudiante de Ingeniería de Sistemas, me enfoco en crear experiencias digitales con stacks como **MERN** y **MEAN**. Actualmente construyo mi portafolio [**JeremyDev**](https://frontend-8izd.onrender.com/), donde muestro mis proyectos y crecimiento como desarrollador.
+Apasionado por el desarrollo web full stack y estudiante de Ingeniería de Sistemas, me enfoco en crear experiencias digitales con stacks como **MERN** y **MEAN**. Actualmente construyo mi portafolio [**JeremyDev**](https://www.jeremygim.dev/), donde muestro mis proyectos y crecimiento como desarrollador.
 
 ---
 
